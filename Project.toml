@@ -1,0 +1,4 @@
+name = "Nektar"
+uuid = "6c4ef53a-b0a1-11e9-0b8f-4bda7a40e405"
+authors = ["Paulo Jabardo <pjabardo@gmail.com>"]
+version = "0.1.0"
